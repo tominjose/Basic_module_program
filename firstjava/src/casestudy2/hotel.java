@@ -117,6 +117,7 @@ public class hotel {
             	{
             		System.out.println("Room number " +k+" is  booked");
             	}
+            	break;
            }             
          }while(choice!=3);
 		
